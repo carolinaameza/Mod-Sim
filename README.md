@@ -22,7 +22,7 @@ Este es un espacio para crear, contribuir y aprender sobre Métodos Numéricos p
     4. Cálculos Simples usando Numpy
     5. Introducción a Tensores
     6. Visualización de Datos (Matplotlib)
-    7. Bases de Datos (Pandas)
+    7. Manejo de Datos (Pandas)
     
 3. **Introducción a Modelamiento**
     1. ¿Qué es un modelo?
